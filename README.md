@@ -1,2 +1,2 @@
 # Accepted-paper
-Everyone is welcome to quote my article.
+Welcome to quote published articles, the code has been uploaded and updated.
