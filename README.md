@@ -7,14 +7,14 @@ Welcome to quote published articles, the code has been uploaded and updated.
 * Latex inference:
 
 
-     @article{qin2019novel,
-      title={A novel combined prediction scheme based on CNN and LSTM for urban PM 2.5 concentration},
-      author={Qin, Dongming and Yu, Jian and Zou, Guojian and Yong, Ruihan and Zhao, Qin and Zhang, Bo},
-      journal={IEEE Access},
-      volume={7},
-      pages={20050--20059},
-      year={2019},
-      publisher={IEEE}
+     @article{qin2019novel,  
+      title={A novel combined prediction scheme based on CNN and LSTM for urban PM 2.5 concentration},  
+      author={Qin, Dongming and Yu, Jian and Zou, Guojian and Yong, Ruihan and Zhao, Qin and Zhang, Bo},  
+      journal={IEEE Access},  
+      volume={7},  
+      pages={20050--20059},  
+      year={2019},  
+      publisher={IEEE}  
     }
 
 ### A novel Encoder-Decoder model based on read-first LSTM for air pollutant prediction
