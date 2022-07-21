@@ -59,3 +59,80 @@ Welcome to quote published articles, the code has been uploaded and updated.
 * paper link [click](https://github.com/zouguojian/Accepted-paper/tree/main/RCL-Learning-%20ResNet%20and%20Convolutional%20Long%20Short-Term%20Memory-based%20Spatiotemporal%20Air%20Pollutant%20Concentration%20Prediction%20Model)
 * code link [click](https://github.com/zouguojian/RCL-Learning)
 * code link [click](https://codeocean.com/capsule/6049117/tree)
+
+## 论文4
+### FDN-learning- Urban PM2.5-concentration Spatial Correlation Prediction Model Based on Fusion Deep Neural Network
+* Aabstract: The problem of increasing air pollution poses a challenge to smart city development, as spatial air pollution correlation exists among adjacent cities. However, it is difficult to predict the degree of air pollution of a location by exploiting massive air pollution datasets incorporating data on spatially related locations. Construction of a spatial correlation prediction model for air pollution is therefore required for air pollution big-data mining. In this paper, we propose an air pollution-concentration spatial correlation prediction model based on a fusion deep neural network called FDN-learning. Three models are combined: a stacked anti-autoencoder network, Gaussian function model, and long short-term memory network (LSTM). The FDN-learning model is composed of three layers for feature expansion, intermediate processing, and data prediction. In the first layer, we employ a stacked anti-autoencoder model to learn the source-data spatial features through a feature expansion hidden layer; this can enrich the feature vector and mine more information for further prediction. In the second layer, the Gaussian function evaluates effective weights for the outputs of the stacked anti-autoencoder models in the preceding layer; the spatial correction effects are therefore incorporated in this layer. Finally, the LSTM model in the data prediction layer learns the air pollution-concentration temporal features. A fine-tuning method based on stochastic gradient descent is applied to the FDN-learning model for improved performance. Empirical results are used to verify the feasibility and effectiveness of our proposed model based on a real-world air pollution dataset.  
+
+* Latex inference:
+
+
+    @article{zou2021fdn,  
+      title={FDN-learning: Urban PM2. 5-concentration Spatial Correlation Prediction Model Based on Fusion Deep Neural Network},  
+      author={Zou, Guojian and Zhang, Bo and Yong, Ruihan and Qin, Dongming and Zhao, Qin},  
+      journal={Big Data Research},  
+      volume={26},  
+      pages={100269},  
+      year={2021},  
+      publisher={Elsevier}  
+    }  
+    
+* paper link [click](https://github.com/zouguojian/Accepted-paper/tree/main/FDN-learning-%20Urban%20PM2.5-concentration%20Spatial%20Correlation%20Prediction%20Model%20Based%20on%20Fusion%20Deep%20Neural%20Network)
+* code link [click](https://github.com/zouguojian/FDN-Learning)
+
+## 论文5
+### Exploring the nonlinear impact of air pollution on housing prices- A machine learning approach
+* Air pollution has profoundly impacted residents’ lifestyles as well as their willingness to pay for real estate. Exploring the relationship between air pollution and housing prices has become increasingly prominent. Current research on housing prices mainly uses the hedonic pricing model and the spatial econometric model, which are both linear methods. However, it is difficult to use these methods to model the nonlinear relationship between housing price and its determinants. In addition, most of the existing studies neglect the effects of multiple pollutants on housing prices. To fill these gaps, this study uses a machine learning approach, the gradient boosting decision tree (GBDT) model to analyze the nonlinear impacts of air pollution and the built environment on housing prices in Shanghai. The experimental results show that the GBDT can better fit the nonlinear relationship between housing prices and various explanatory variables compared with traditional linear models. Furthermore, the relative importance rankings of the built environment and air pollution variables are analyzed based on the GBDT model. It indicates that built environment variables contribute 97.21% of the influences on housing prices, whereas the contribution of air pollution variables is 2.79%. Although the impact of air pollution is relatively small, the marginal willingness of residents to pay for clean air is significant. With an improvement of 1 g/m in the average concentrations of PM2.5 and NO, the average housing price increases by 155.93 Yuan/m and 278.03 Yuan/m, respectively. Therefore, this study can improve our understanding of the nonlinear impact of air pollution on housing prices and provide a basis for formulating and revising policies related to housing prices.  
+
+* Latex inference:
+
+
+    @article{zou2022exploring,  
+      title={Exploring the nonlinear impact of air pollution on housing prices: A machine learning approach},  
+      author={Zou, Guojian and Lai, Ziliang and Li, Ye and Liu, Xinghua and Li, Wenxiang},  
+      journal={Economics of Transportation},  
+      volume={31},  
+      pages={100272},  
+      year={2022},  
+      publisher={Elsevier}  
+    }  
+    
+* paper link [click](https://github.com/zouguojian/Accepted-paper/tree/main/Exploring%20the%20nonlinear%20impact%20of%20air%20pollution%20on%20housing%20prices-%20A%20machine%20learning%20approach)
+
+
+## 论文6
+### A Space-time Dimension User Preference Calculation Method for Recommendation in Social network
+* Aabstract: Under the background of the Mobile Internet Age, location service has been developed rapidly. On the basis of modeling the space-time dimension and the study of users' personalized preference combined with the preference of similar user groups, this paper proposes the information selection model of location service and relevant algorithms. In this model, a space-time dimensional model is firstly constructed to process the information of users' personalized location service in the time and spatial dimension. Then, a new user preference model is constructed based on the existing study on user preference.  
+
+
+* Latex inference:
+
+
+    @inproceedings{guojian2018space,  
+      title={A space-time dimension user preference calculation method for recommendation in social network},  
+      author={Guojian, Zou and Jisheng, Wang and Hailei, Yuan and Dong, Wang and Tao, Pan and Feng, Song and Bo, Zhang},  
+      booktitle={2018 13th IEEE Conference on Industrial Electronics and Applications (ICIEA)},  
+      pages={1643--1648},  
+      year={2018},  
+      organization={IEEE}  
+    }   
+    
+* paper link [click](https://github.com/zouguojian/Accepted-paper/tree/main/A%20Space-time%20Dimension%20User%20Preference%20Calculation%20Method%20for%20Recommendation%20in%20Social%20network)
+
+## 论文7
+### Longer Time Span Air Pollution Prediction: The Attention and Autoencoder Hybrid Learning Model
+* Aabstract: Air pollution has become a critical issue in human’s life. Predicting the changing trends of air pollutants would be of great help for public health and natural environments. Current methods focus on the prediction accuracy and retain the forecasting time span within 12 hours. Shorter time span decreases the practicability of these perditions, even with higher accuracy. This study proposes an attention and autoencoder (A&A) hybrid learning approach to obtain a longer period of air pollution changing trends while holding the same high accuracy. Since pollutant concentration forecast highly relates to time changing, quite different from normal prediction problems like autotranslation, we integrate “time decay factor” into the traditional attention mechanism. The time decay factor can alleviate the impact of the value observed from a longer time before while increasing the impact of the value from a closer time point. We also utilize the hidden states in the decoder to build connection between history values and current ones. Thus, the proposed model can extract the changing trend of a longer history time span while coping with abrupt changes within a shorter time span. A set of experiments demonstrate that the A&A learning approach can obtain the changing trend of air pollutants, like PM2.5, during a longer time span of 12, 24, or even 48 hours. The approach is also tested under different pollutant concentrations and different periods and the results validate its robustness and generality.  
+
+* Latex inference:
+
+    
+    @article{tu2021longer,  
+      title={Longer Time Span Air Pollution Prediction: The Attention and Autoencoder Hybrid Learning Model},  
+      author={Tu, Xin-Yu and Zhang, Bo and Jin, Yu-Peng and Zou, Guo-Jian and Pan, Jian-Guo and Li, Mao-Zhen},  
+      journal={Mathematical Problems in Engineering},  
+      volume={2021},  
+      year={2021},  
+      publisher={Hindawi}  
+    }   
+    
+* paper link [click](https://github.com/zouguojian/Accepted-paper/tree/main/Longer%20Time-Span%20Air%20Pollution%20Predictionl)
