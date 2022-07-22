@@ -1,8 +1,8 @@
 # Accepted-paper
 Welcome to quote published papers, the codes have been uploaded. If you have any questions, do not hesitate to contact us.  
 Our e-mail address is: 2010768@tongji.edu.cn;  
-Our WeChat ID is: GuoJianZou;
-Thanks !!!!!!
+Our WeChat ID is: GuoJianZou;  
+Thanks !!!!!!  
 
 <div align=center><img src ="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fkk.51.com%2Frefer%3Furl%3Dhttps%3A%2F%2Fmmbiz.qpic.cn%2Fmmbiz_gif%2FzxqIk8VJIrykWy7eNkw8aNBou0XrWmX585bD3dsClf8BUWic2XRZl4kaND8XJHBQn8LOI83VzAdwvI7fXTypxrQ%2F0%3Fwx_fmt%3Dgif&refer=http%3A%2F%2Fkk.51.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1661072003&t=e7891ac13714e529265e8d6ad640a55d"/></div>
 
