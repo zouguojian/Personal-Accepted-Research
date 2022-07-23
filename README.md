@@ -1,5 +1,5 @@
 # Accepted-paper
-Welcome to quote published papers, the codes have been uploaded. If you have any questions, do not hesitate to contact us.  
+Welcome to quote our published papers, the codes have been uploaded. If you have any questions, do not hesitate to contact us.  
 Our e-mail address is: 2010768@tongji.edu.cn;  
 Our WeChat ID is: GuoJianZou;  
 Thanks !!!!!!  
