@@ -50,6 +50,10 @@ Thanks !!!!!!
     
 * paper link [click](https://github.com/zouguojian/Accepted-paper/tree/main/Exploring%20the%20nonlinear%20impact%20of%20air%20pollution%20on%20housing%20prices-%20A%20machine%20learning%20approach)
 
+### ST-ANet: Speed prediction of spatio-temporal attention network for dynamic highway network. (中文核心, 已收录)  
+
+* Accurate prediction of highway traffic speed can reduce traffic accidents and transit time, provide valuable reference data for traffic control in advance, and is of great significance to highway management. This paper proposes a speed prediction of spatio-temporal attention network for dynamic highway network (ST-ANet) driven by data and long-term prediction tasks. ST-ANet consists of three parts, the graph attention network (GAN) based on the spatial attention mechanism, the temporal attention network based on the multi-head self-attention mechanism, and the long short-term memory network (LSTM). In addition, this paper also uses some techniques to improve model performance, including dense connections and layer batch normalization methods. First, use GAN to extract the dynamic spatial correlation features of the highway network; second, use LSTM to extract the temporal correlation features of the highway network; finally, use the temporal attention mechanism to focus on the correlation between historical input data and predicted values. The experimental verification uses the monitoring data of the highway network in Yinchuan City, Ningxia Province, China. Compared with the latest GCN-LSTM model, the ST-ANet model reduces the prediction error MAE of the highway network traffic speed in the next 1 hour, 2 hours, and 3 hours by 4.0%, 3.6% and 3.9%, respectively. The experimental results show that the performance of the proposed prediction model in this paper is better than the baseline methods and can effectively solve the problem of long-term highway network traffic speed prediction.  
+
 ## 2021年
 ### A novel Encoder-Decoder model based on read-first LSTM for air pollutant prediction, Science of The Total Environment, 765, 144507. (SCI, 中科院一区, IF: 10.753)  
 
