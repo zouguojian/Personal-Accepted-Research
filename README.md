@@ -9,7 +9,7 @@ Thanks !!!!!!
 <!-- ![paper](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fkk.51.com%2Frefer%3Furl%3Dhttps%3A%2F%2Fmmbiz.qpic.cn%2Fmmbiz_gif%2FzxqIk8VJIrykWy7eNkw8aNBou0XrWmX585bD3dsClf8BUWic2XRZl4kaND8XJHBQn8LOI83VzAdwvI7fXTypxrQ%2F0%3Fwx_fmt%3Dgif&refer=http%3A%2F%2Fkk.51.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1661072003&t=e7891ac13714e529265e8d6ad640a55d) -->
 
 ## 2022年
-### RCL-Learning- ResNet and Convolutional Long Short-Term Memory-based Spatiotemporal Air Pollutant Concentration Prediction Model, Expert Systems With Applications, 118017. (SCI, 中科院一区, IF: 8.665, co-first author)  
+### RCL-Learning- ResNet and Convolutional Long Short-Term Memory-based Spatiotemporal Air Pollutant Concentration Prediction Model, Expert Systems With Applications, 118017. (SCI, 中科院一区, IF: 8.665, **co-first author**)  
 
 <div align=center><img src ="https://github.com/zouguojian/Accepted-paper/blob/main/RCL-Learning-%20ResNet%20and%20Convolutional%20Long%20Short-Term%20Memory-based%20Spatiotemporal%20Air%20Pollutant%20Concentration%20Prediction%20Model/image/figure5.png"/></div>
 
@@ -32,7 +32,7 @@ Thanks !!!!!!
 * code link [click](https://github.com/zouguojian/RCL-Learning)
 * code link [click](https://codeocean.com/capsule/6049117/tree)
 
-### Exploring the nonlinear impact of air pollution on housing prices-A machine learning approach, Economics of Transportation, 100272. (SCI, 中科院三区, IF: 2.829, first author)  
+### Exploring the nonlinear impact of air pollution on housing prices-A machine learning approach, Economics of Transportation, 100272. (SCI, 中科院三区, IF: 2.829, **first author**)  
 
 * Abstract:
 > Air pollution has profoundly impacted residents’ lifestyles as well as their willingness to pay for real estate. Exploring the relationship between air pollution and housing prices has become increasingly prominent. Current research on housing prices mainly uses the hedonic pricing model and the spatial econometric model, which are both linear methods. However, it is difficult to use these methods to model the nonlinear relationship between housing price and its determinants. In addition, most of the existing studies neglect the effects of multiple pollutants on housing prices. To fill these gaps, this study uses a machine learning approach, the gradient boosting decision tree (GBDT) model to analyze the nonlinear impacts of air pollution and the built environment on housing prices in Shanghai. The experimental results show that the GBDT can better fit the nonlinear relationship between housing prices and various explanatory variables compared with traditional linear models. Furthermore, the relative importance rankings of the built environment and air pollution variables are analyzed based on the GBDT model. It indicates that built environment variables contribute 97.21% of the influences on housing prices, whereas the contribution of air pollution variables is 2.79%. Although the impact of air pollution is relatively small, the marginal willingness of residents to pay for clean air is significant. With an improvement of 1 g/m in the average concentrations of PM2.5 and NO, the average housing price increases by 155.93 Yuan/m and 278.03 Yuan/m, respectively. Therefore, this study can improve our understanding of the nonlinear impact of air pollution on housing prices and provide a basis for formulating and revising policies related to housing prices.  
@@ -52,7 +52,7 @@ Thanks !!!!!!
     
 * paper link [click](https://github.com/zouguojian/Accepted-paper/tree/main/Exploring%20the%20nonlinear%20impact%20of%20air%20pollution%20on%20housing%20prices-%20A%20machine%20learning%20approach)
 
-### ST-ANet: Speed prediction of spatio-temporal attention network for dynamic highway network. (中文核心, 已收录, first author)  
+### ST-ANet: Speed prediction of spatio-temporal attention network for dynamic highway network. (中文核心, 已收录, **first author**)  
 
 * Abstract:
 > Accurate prediction of highway traffic speed can reduce traffic accidents and transit time, provide valuable reference data for traffic control in advance, and is of great significance to highway management. This paper proposes a speed prediction of spatio-temporal attention network for dynamic highway network (ST-ANet) driven by data and long-term prediction tasks. ST-ANet consists of three parts, the graph attention network (GAN) based on the spatial attention mechanism, the temporal attention network based on the multi-head self-attention mechanism, and the long short-term memory network (LSTM). In addition, this paper also uses some techniques to improve model performance, including dense connections and layer batch normalization methods. First, use GAN to extract the dynamic spatial correlation features of the highway network; second, use LSTM to extract the temporal correlation features of the highway network; finally, use the temporal attention mechanism to focus on the correlation between historical input data and predicted values. The experimental verification uses the monitoring data of the highway network in Yinchuan City, Ningxia Province, China. Compared with the latest GCN-LSTM model, the ST-ANet model reduces the prediction error MAE of the highway network traffic speed in the next 1 hour, 2 hours, and 3 hours by 4.0%, 3.6% and 3.9%, respectively. The experimental results show that the performance of the proposed prediction model in this paper is better than the baseline methods and can effectively solve the problem of long-term highway network traffic speed prediction.  
@@ -60,7 +60,7 @@ Thanks !!!!!!
 * paper link [click](https://github.com/zouguojian/Accepted-paper/tree/main/ST-ANet%2C%20traffic%20speed%20prediction)
 
 ## 2021年
-### A novel Encoder-Decoder model based on read-first LSTM for air pollutant prediction, Science of The Total Environment, 765, 144507. (SCI, 中科院一区, IF: 10.753, co-first author)  
+### A novel Encoder-Decoder model based on read-first LSTM for air pollutant prediction, Science of The Total Environment, 765, 144507. (SCI, 中科院一区, IF: 10.753, **co-first author**)  
 
 <div align=center><img src ="https://github.com/zouguojian/Accepted-paper/blob/main/A%20novel%20Encoder-Decoder%20model%20based%20on%20read-first%20LSTM%20for%20air%20pollutant%20prediction/image/RLSTM-LSTM.png"/></div>
 
@@ -83,7 +83,7 @@ Thanks !!!!!!
 * paper link [click](https://github.com/zouguojian/Accepted-paper/tree/main/A%20novel%20Encoder-Decoder%20model%20based%20on%20read-first%20LSTM%20for%20air%20pollutant%20prediction)
 * code link [click](https://github.com/zouguojian/Read-first-LSTM)
 
-### FDN-learning- Urban PM2.5-concentration Spatial Correlation Prediction Model Based on Fusion Deep Neural Network, Big Data Research, 26, 100269. (SCI, 中科院三区, IF:3.739, first author) 
+### FDN-learning- Urban PM2.5-concentration Spatial Correlation Prediction Model Based on Fusion Deep Neural Network, Big Data Research, 26, 100269. (SCI, 中科院三区, IF:3.739, **first author**) 
 
 <div align=center><img src ="https://github.com/zouguojian/Accepted-paper/blob/main/FDN-learning-%20Urban%20PM2.5-concentration%20Spatial%20Correlation%20Prediction%20Model%20Based%20on%20Fusion%20Deep%20Neural%20Network/image/figure4.png"/></div>
 
