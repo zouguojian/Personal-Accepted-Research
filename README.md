@@ -17,6 +17,17 @@ Thanks !!!!!!
 > Air pollution has become one of the critical environmental problem in the 21st century and has attracted worldwide attentions. To mitigate it, many researchers have investigated the issue and attempted to accurately predict air pollutant concentrations using various methods. Currently, deep learning methods are the most prevailing ones. In this paper, we extend a comprehensive review on deep learning methods specifically for air pollutant concentration prediction. We start from the analysis on non-deep learning methods applied in air pollutant concentration prediction in terms of expertise, applications and deficiencies. Then, we investigate current deep learning methods for air pollutant concentration prediction from the perspectives of temporal, spatial and spatio-temporal correlations these methods could model. Further, we list some public datasets and auxiliary features used in air pollutant prediction, and compare representative experiments on these datasets. From the comparison, we draw some conclusions. Finally, we identify current limitations and future research directions of deep learning methods for air pollutant concentration prediction. The review may inspire researchers and to a certain extent promote the development of deep learning in air pollutant concentration prediction.
 * paper link [click](https://github.com/zouguojian/Accepted-paper/blob/main/Deep%20learning%20for%20Air%20Pollutant%20Concentration%20Prediction-A%20Review/manuscript(clean).pdf)
 
+* Latex inference:
+
+    @article{zhang2022deep,
+      title={Deep learning for air pollutant concentration prediction: A review},
+      author={Zhang, Bo and Rong, Yi and Yong, Ruihan and Qin, Dongming and Li, Maozhen and Zou, Guojian and Pan, Jianguo},
+      journal={Atmospheric Environment},
+      pages={119347},
+      year={2022},
+      publisher={Elsevier}
+    }
+
 
 ### RCL-Learning- ResNet and Convolutional Long Short-Term Memory-based Spatiotemporal Air Pollutant Concentration Prediction Model, Expert Systems With Applications, 118017. (SCI, 中科院一区, IF: 8.665, <font color=#FF000>co-first author</font>)  
 
