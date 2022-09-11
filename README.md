@@ -19,14 +19,14 @@ Thanks !!!!!!
 
 * Latex inference:
 
-    @article{zhang2022deep,
-      title={Deep learning for air pollutant concentration prediction: A review},
-      author={Zhang, Bo and Rong, Yi and Yong, Ruihan and Qin, Dongming and Li, Maozhen and Zou, Guojian and Pan, Jianguo},
-      journal={Atmospheric Environment},
-      pages={119347},
-      year={2022},
-      publisher={Elsevier}
-    }
+    @article{zhang2022deep,  
+      title={Deep learning for air pollutant concentration prediction: A review},  
+      author={Zhang, Bo and Rong, Yi and Yong, Ruihan and Qin, Dongming and Li, Maozhen and Zou, Guojian and Pan, Jianguo},  
+      journal={Atmospheric Environment},  
+      pages={119347},  
+      year={2022},  
+      publisher={Elsevier}  
+    }  
 
 
 ### RCL-Learning- ResNet and Convolutional Long Short-Term Memory-based Spatiotemporal Air Pollutant Concentration Prediction Model, Expert Systems With Applications, 118017. (SCI, 中科院一区, IF: 8.665, <font color=#FF000>co-first author</font>)  
