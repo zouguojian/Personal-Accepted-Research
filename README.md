@@ -9,11 +9,11 @@ Thanks !!!!!!
 <!-- ![paper](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fkk.51.com%2Frefer%3Furl%3Dhttps%3A%2F%2Fmmbiz.qpic.cn%2Fmmbiz_gif%2FzxqIk8VJIrykWy7eNkw8aNBou0XrWmX585bD3dsClf8BUWic2XRZl4kaND8XJHBQn8LOI83VzAdwvI7fXTypxrQ%2F0%3Fwx_fmt%3Dgif&refer=http%3A%2F%2Fkk.51.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1661072003&t=e7891ac13714e529265e8d6ad640a55d) -->
 
 ## 2023年
-### A spatial correlation prediction model of urban PM2.5 concentration based on deconvolution and LSTM. (SCI, 中科院一区, IF: 5.755, <font color=#FF000>corresponding author</font>) 
+### A spatial correlation prediction model of urban PM2.5 concentration based on deconvolution and LSTM.
 
 * Abstract: 
 > Precise prediction of air pollutants can effectively reduce the occurrence of heavy pollution incidents. With the current surge of massive data, deep learning appears to be a promising technique to achieve dynamic prediction of air pollutant concentration from both the spatial and temporal dimensions. This paper presents Dev-LSTM, a prediction model building on deconvolution and LSTM. The novelty of Dev-LSTM lies in its capability to fully extract the spatial feature correlation of air pollutant concentration data, preventing the excessive loss of information caused by traditional convolution. At the same time, the feature associations in the time dimension are mined to produce accurate prediction results. Experimental results show that Dev-LSTM outperforms traditional prediction models on a variety of indicators.
-* paper link [click](https://github.com/zouguojian/Accepted-paper/blob/main/A%20Space-time%20Dimension%20User%20Preference%20Calculation%20Method%20for%20Recommendation%20in%20Social%20network/A%20Space-time%20Dimension%20User%20Perference%20Calculation.pdf)
+* paper link [click](https://github.com/zouguojian/Accepted-paper/blob/main/A%20spatial%20correlation%20prediction%20model%20of%20urban%20PM2.5%20concentration%20based%20on%20deconvolution%20and%20LSTM/NEUCOM-D-22-06372.pdf)
 
 * Latex inference:
 
