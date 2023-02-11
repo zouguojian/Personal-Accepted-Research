@@ -8,6 +8,23 @@ Thanks !!!!!!
 
 <!-- ![paper](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fkk.51.com%2Frefer%3Furl%3Dhttps%3A%2F%2Fmmbiz.qpic.cn%2Fmmbiz_gif%2FzxqIk8VJIrykWy7eNkw8aNBou0XrWmX585bD3dsClf8BUWic2XRZl4kaND8XJHBQn8LOI83VzAdwvI7fXTypxrQ%2F0%3Fwx_fmt%3Dgif&refer=http%3A%2F%2Fkk.51.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1661072003&t=e7891ac13714e529265e8d6ad640a55d) -->
 
+## 2023年
+### A spatial correlation prediction model of urban PM2.5 concentration based on deconvolution and LSTM. (SCI, 中科院一区, IF: 5.755, <font color=#FF000>corresponding author</font>) 
+
+<div align=center><img src ="https://github.com/zouguojian/Accepted-paper/blob/main/Deep%20learning%20for%20Air%20Pollutant%20Concentration%20Prediction-A%20Review/image/WechatIMG97.jpeg" width = "600" height="500"/></div>
+
+* Abstract: 
+> Precise prediction of air pollutants can effectively reduce the occurrence of heavy pollution incidents. With the current surge of massive data, deep learning appears to be a promising technique to achieve dynamic prediction of air pollutant concentration from both the spatial and temporal dimensions. This paper presents Dev-LSTM, a prediction model building on deconvolution and LSTM. The novelty of Dev-LSTM lies in its capability to fully extract the spatial feature correlation of air pollutant concentration data, preventing the excessive loss of information caused by traditional convolution. At the same time, the feature associations in the time dimension are mined to produce accurate prediction results. Experimental results show that Dev-LSTM outperforms traditional prediction models on a variety of indicators.
+* paper link [click](https://github.com/zouguojian/Accepted-paper/blob/main/Deep%20learning%20for%20Air%20Pollutant%20Concentration%20Prediction-A%20Review/manuscript(clean).pdf)
+
+* Latex inference:
+
+    @article{li4342073spatial,  
+      title={A Spatial Correlation Prediction Model of Urban Pm2. 5 Concentration Based on Deconvolution and Lstm},  
+      author={Li, Maozhen and Zhang, Bo and Liu, Yuan and Yong, Ruihan and Zou, Guojian and Yang, Ru},  
+      journal={Available at SSRN 4342073}  
+    }  
+
 ## 2022年
 ### Deep learning for Air Pollutant Concentration Prediction: A Review, Atmospheric Environment, accept. (SCI, 中科院一区, IF: 5.755, <font color=#FF000>corresponding author</font>) 
 
