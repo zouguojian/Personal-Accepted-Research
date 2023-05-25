@@ -9,6 +9,29 @@ Thanks !!!!!!
 <!-- ![paper](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fkk.51.com%2Frefer%3Furl%3Dhttps%3A%2F%2Fmmbiz.qpic.cn%2Fmmbiz_gif%2FzxqIk8VJIrykWy7eNkw8aNBou0XrWmX585bD3dsClf8BUWic2XRZl4kaND8XJHBQn8LOI83VzAdwvI7fXTypxrQ%2F0%3Fwx_fmt%3Dgif&refer=http%3A%2F%2Fkk.51.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1661072003&t=e7891ac13714e529265e8d6ad640a55d) -->
 
 ## 2023年
+### When Will We Arrive? A Novel Multi-Task Spatio-Temporal Attention Network Based on Individual Preference for Estimating Travel Time, IEEE Transactions on Intelligent Transportation Systems, 1558-0016. (SCI, 中科院一区, IF: 9.551, <font color=#FF000>co-first author</font>)  
+
+<div align=center><img src ="https://github.com/zouguojian/Accepted-paper/blob/main/RCL-Learning%20ResNet%20and%20Convolutional%20Long%20Short-Term%20Memory-based%20Spatiotemporal%20Air%20Pollutant%20Concentration%20Prediction%20Model/image/figure5.png"/></div>
+
+* Abstract: 
+> Predicting how long a trip will take may allow travelers plan ahead, save money, and avoid traffic congestion. The journey time estimation model should take into account three crucial factors: (1) individual travel preference, (2) dynamic spatio-temporal correlations, and (3) the association between long-term speed forecast and travel time estimate. In order to overcome these challenges, this study proposes a unique parallel architecture called the multi-task spatio-temporal attention network (MT-STAN) to estimate journey times. To extract the dynamic spatio-temporal correlations of the road network, we first develop a traffic speed prediction model based on spatio-temporal block and bridge transformer networks, combining the road, timestamp, and traffic speed information into hidden states. Second, we offer a personalized model for estimating journey times that makes use of cross-network, holistic attention, and semantic transformer. In this approach, travel preferences extraction through cross-network, holistic attention permits correlations between the dynamic road network’s hidden states and individual journey characteristics, which are subsequently transformed into global semantics by the semantic transformer; preferences and semantics are integrated during the estimate phase. Finally, a multi-task learning component is included, which combines both traffic speed prediction and individual journey time estimate, via the sharing of underlying network parameters and the improvement of the contextual semantic knowledge of the latter job. Evaluation experiments are carried out using a highway dataset collected in Yinchuan City, Ningxia Province, China. The proposed prediction model outperforms state-of-the-art baseline approaches in experiments.   
+
+* Latex inference:
+
+    @ARTICLE{10133870,
+        author={Zou, Guojian and Lai, Ziliang and Ma, Changxi and Tu, Meiting and Fan, Jing and Li, Ye},
+        journal={IEEE Transactions on Intelligent Transportation Systems}, 
+        title={When Will We Arrive? A Novel Multi-Task Spatio-Temporal Attention Network Based on Individual Preference for Estimating Travel Time}, 
+        year={2023},
+        volume={},
+        number={},
+        pages={1-15},
+        doi={10.1109/TITS.2023.3276916}
+      }
+        
+* paper link [click](https://github.com/zouguojian/Accepted-paper/tree/main/RCL-Learning-%20ResNet%20and%20Convolutional%20Long%20Short-Term%20Memory-based%20Spatiotemporal%20Air%20Pollutant%20Concentration%20Prediction%20Model)
+* code link [click](https://github.com/zouguojian/Travel-time-prediction)
+
 ### A spatial correlation prediction model of urban PM2.5 concentration based on deconvolution and LSTM.
 
 * Abstract: 
