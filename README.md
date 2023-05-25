@@ -18,16 +18,16 @@ Thanks !!!!!!
 
 * Latex inference:
 
-    @ARTICLE{10133870,
-        author={Zou, Guojian and Lai, Ziliang and Ma, Changxi and Tu, Meiting and Fan, Jing and Li, Ye},
-        journal={IEEE Transactions on Intelligent Transportation Systems}, 
-        title={When Will We Arrive? A Novel Multi-Task Spatio-Temporal Attention Network Based on Individual Preference for Estimating Travel Time}, 
-        year={2023},
-        volume={},
-        number={},
-        pages={1-15},
-        doi={10.1109/TITS.2023.3276916}
-      }
+    @ARTICLE{10133870,  
+        author={Zou, Guojian and Lai, Ziliang and Ma, Changxi and Tu, Meiting and Fan, Jing and Li, Ye},  
+        journal={IEEE Transactions on Intelligent Transportation Systems},   
+        title={When Will We Arrive? A Novel Multi-Task Spatio-Temporal Attention Network Based on Individual Preference for Estimating Travel Time},   
+        year={2023},  
+        volume={},  
+        number={},  
+        pages={1-15},  
+        doi={10.1109/TITS.2023.3276916}  
+      }  
         
 * paper link [click](https://github.com/zouguojian/Accepted-paper/tree/main/When%20Will%20We%20Arrive%3F%20A%20Novel%20Multi-Task%20Spatio-Temporal%20Attention%20Network%20Based%20on%20Individual%20Preference%20for%20Estimating%20Travel%20Time)
 * code link [click](https://github.com/zouguojian/Travel-time-prediction)
