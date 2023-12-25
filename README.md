@@ -9,9 +9,9 @@ Thanks !!!!!!
 <!-- ![paper](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fkk.51.com%2Frefer%3Furl%3Dhttps%3A%2F%2Fmmbiz.qpic.cn%2Fmmbiz_gif%2FzxqIk8VJIrykWy7eNkw8aNBou0XrWmX585bD3dsClf8BUWic2XRZl4kaND8XJHBQn8LOI83VzAdwvI7fXTypxrQ%2F0%3Fwx_fmt%3Dgif&refer=http%3A%2F%2Fkk.51.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1661072003&t=e7891ac13714e529265e8d6ad640a55d) -->
 
 ## 2023年
-### A novel spatio-temporal generative inference network for predicting the long-term highway traffic speed, Transportation Research Part C: Emerging Technologies, Volume 154, September 2023, 104263. (SCI, 中科院一区, IF: 8.3, <font color=#FF000>first author</font>)  
+### Multi-task-based spatiotemporal generative inference network: A novel framework for predicting the highway traffic speed, Expert Systems with Applications, Volume 237, March 2024, 121548. (SCI, 中科院一区, IF: 8.5, <font color=#FF000>first author</font>)  
 
-<div align=center><img src ="https://github.com/zouguojian/Accepted-paper/blob/main/A%20novel%20spatio-temporal%20generative%20inference%20network%20for%20predicting%20the%20long-term%20highway%20traffic%20speed/image/Screen%20Shot%202023-08-06%20at%209.58.43%20AM.png" width = "600" height="470"/></div>
+<div align=center><img src ="https://github.com/zouguojian/Personal-Accepted-Research/blob/main/Multi-task-based%20spatiotemporal%20generative%20inference%20network%20A%20novel%20framework%20for%20predicting%20the%20highway%20traffic%20speed/figure/1.png" width = "600" height="470"/></div>
 
 * Abstract: 
 > Accurately predicting the highway traffic speed can reduce traffic accidents and transit time, and it also provides valuable reference data for traffic control in advance. Three essential elements should be considered in highway traffic speed prediction: (1) dynamic spatiotemporal correlation, (2) prediction error propagation elimination, and (3) traffic speed heterogeneity on the highway network. A multi-task-based spatiotemporal generative inference network (MT-STGIN) is proposed to address the above challenges. 1 MT-STGIN consists of three parts: an encoder based on spatiotemporal correlation extraction block (ST-Block), a decoder based on masked ST-Block and generative inference, and multi-task learning. The encoder is first used to extract the dynamic spatiotemporal correlation of the highway network. The decoder concentrates on correlating historical and - target sequences and generates the target hidden outputs rather than a dynamic step-by-step decoding way. Finally, a multi-task learning method is used to predict traffic speed on different types of road segments because of heterogeneity and shares the underlying network parameters. The evaluation experiments use the monitoring data of the highway in Yinchuan City, Ningxia Province, China. The experimental results demonstrate that the performance of the proposed prediction model is better than that of the baselines, and it can efficiently solve the problem of long-term highway speed prediction.  
@@ -28,7 +28,7 @@ Thanks !!!!!!
         publisher={Elsevier}  
       }    
 
-* paper link [click](https://github.com/zouguojian/Accepted-paper/blob/main/A%20novel%20spatio-temporal%20generative%20inference%20network%20for%20predicting%20the%20long-term%20highway%20traffic%20speed/1-s2.0-S0968090X23002528-main.pdf)
+* paper link [click](https://github.com/zouguojian/Personal-Accepted-Research/blob/main/Multi-task-based%20spatiotemporal%20generative%20inference%20network%20A%20novel%20framework%20for%20predicting%20the%20highway%20traffic%20speed/1-s2.0-S095741742302050X-main.pdf)
 * code link [click](https://github.com/zouguojian/Traffic-speed-prediction/tree/main/MT-STGIN)
 
 
