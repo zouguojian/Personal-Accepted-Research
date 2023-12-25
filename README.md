@@ -11,7 +11,30 @@ Thanks !!!!!!
 ## 2023年
 ### A novel spatio-temporal generative inference network for predicting the long-term highway traffic speed, Transportation Research Part C: Emerging Technologies, Volume 154, September 2023, 104263. (SCI, 中科院一区, IF: 8.3, <font color=#FF000>first author</font>)  
 
-<div align=center><img src ="https://github.com/zouguojian/Accepted-paper/blob/main/A%20novel%20spatio-temporal%20generative%20inference%20network%20for%20predicting%20the%20long-term%20highway%20traffic%20speed/image/Screen%20Shot%202023-08-06%20at%209.58.43%20AM.png" width = "600" height="500"/></div>
+<div align=center><img src ="https://github.com/zouguojian/Accepted-paper/blob/main/A%20novel%20spatio-temporal%20generative%20inference%20network%20for%20predicting%20the%20long-term%20highway%20traffic%20speed/image/Screen%20Shot%202023-08-06%20at%209.58.43%20AM.png" width = "600" height="470"/></div>
+
+* Abstract: 
+> Accurately predicting the highway traffic speed can reduce traffic accidents and transit time, and it also provides valuable reference data for traffic control in advance. Three essential elements should be considered in highway traffic speed prediction: (1) dynamic spatiotemporal correlation, (2) prediction error propagation elimination, and (3) traffic speed heterogeneity on the highway network. A multi-task-based spatiotemporal generative inference network (MT-STGIN) is proposed to address the above challenges. 1 MT-STGIN consists of three parts: an encoder based on spatiotemporal correlation extraction block (ST-Block), a decoder based on masked ST-Block and generative inference, and multi-task learning. The encoder is first used to extract the dynamic spatiotemporal correlation of the highway network. The decoder concentrates on correlating historical and - target sequences and generates the target hidden outputs rather than a dynamic step-by-step decoding way. Finally, a multi-task learning method is used to predict traffic speed on different types of road segments because of heterogeneity and shares the underlying network parameters. The evaluation experiments use the monitoring data of the highway in Yinchuan City, Ningxia Province, China. The experimental results demonstrate that the performance of the proposed prediction model is better than that of the baselines, and it can efficiently solve the problem of long-term highway speed prediction.  
+
+* Latex inference:
+
+      @article{zou2024multi,  
+        title={Multi-task-based spatiotemporal generative inference network: A novel framework for predicting the highway traffic speed},  
+        author={Zou, Guojian and Lai, Ziliang and Wang, Ting and Liu, Zongshi and Bao, Jingjue and Ma, Changxi and Li, Ye and Fan, Jing},  
+        journal={Expert Systems with Applications},  
+        volume={237},  
+        pages={121548},  
+        year={2024},  
+        publisher={Elsevier}  
+      }    
+
+* paper link [click](https://github.com/zouguojian/Accepted-paper/blob/main/A%20novel%20spatio-temporal%20generative%20inference%20network%20for%20predicting%20the%20long-term%20highway%20traffic%20speed/1-s2.0-S0968090X23002528-main.pdf)
+* code link [click](https://github.com/zouguojian/Traffic-speed-prediction/tree/main/MT-STGIN)
+
+
+### A novel spatio-temporal generative inference network for predicting the long-term highway traffic speed, Transportation Research Part C: Emerging Technologies, Volume 154, September 2023, 104263. (SCI, 中科院一区, IF: 8.3, <font color=#FF000>first author</font>)  
+
+<div align=center><img src ="https://github.com/zouguojian/Accepted-paper/blob/main/A%20novel%20spatio-temporal%20generative%20inference%20network%20for%20predicting%20the%20long-term%20highway%20traffic%20speed/image/Screen%20Shot%202023-08-06%20at%209.58.43%20AM.png" width = "600" height="470"/></div>
 
 * Abstract: 
 > Accurately predicting the highway traffic speed can reduce traffic accidents and transit time, which is of great significance to highway management. Three essential elements should be considered in the long-term highway traffic speed prediction: (1) adaptability to speed fluctuation, (2) exploring the spatio-temporal correlation effectively, and (3) prediction of non-error propagation. This paper proposes a novel spatio-temporal generative inference network (STGIN) driven by data and long-term prediction. STGIN consists of three parts; semantic enhancement, spatio-temporal correlation extraction block (ST-Block), and generative inference. Semantic enhancement is first used to model the contextual semantics of traffic speed, improving the adaptability to speed fluctuations. The ST-Block is then used to extract the spatio-temporal correlations of the highway network. Finally, generative inference is used to pay attention to the correlation between historical- and target-sequences to generate the target hidden outputs rather than a dynamic step-by-step decoding way; it avoids long-term prediction error propagation in the spatial and temporal dimensions. The evaluation experiments use the monitoring data of highway in Yinchuan City, Ningxia Province, China. For long-term highway speed prediction, the experimental results demonstrate that the performance of the proposed method is better than that of the baseline methods. 
@@ -37,7 +60,7 @@ Thanks !!!!!!
 
 ### When Will We Arrive? A Novel Multi-Task Spatio-Temporal Attention Network Based on Individual Preference for Estimating Travel Time, IEEE Transactions on Intelligent Transportation Systems, 1558-0016. (SCI, 中科院一区, IF: 9.551, <font color=#FF000>first author</font>)  
 
-<div align=center><img src ="https://github.com/zouguojian/Personal-Accepted-Research/blob/main/When%20Will%20We%20Arrive%3F%20A%20Novel%20Multi-Task%20Spatio-Temporal%20Attention%20Network%20Based%20on%20Individual%20Preference%20for%20Estimating%20Travel%20Time/figure/1.png" width = "600" height="400"/></div>
+<div align=center><img src ="https://github.com/zouguojian/Personal-Accepted-Research/blob/main/When%20Will%20We%20Arrive%3F%20A%20Novel%20Multi-Task%20Spatio-Temporal%20Attention%20Network%20Based%20on%20Individual%20Preference%20for%20Estimating%20Travel%20Time/figure/1.png" width = "600" height="370"/></div>
 
 * Abstract: 
 > Predicting how long a trip will take may allow travelers plan ahead, save money, and avoid traffic congestion. The journey time estimation model should take into account three crucial factors: (1) individual travel preference, (2) dynamic spatio-temporal correlations, and (3) the association between long-term speed forecast and travel time estimate. In order to overcome these challenges, this study proposes a unique parallel architecture called the multi-task spatio-temporal attention network (MT-STAN) to estimate journey times. To extract the dynamic spatio-temporal correlations of the road network, we first develop a traffic speed prediction model based on spatio-temporal block and bridge transformer networks, combining the road, timestamp, and traffic speed information into hidden states. Second, we offer a personalized model for estimating journey times that makes use of cross-network, holistic attention, and semantic transformer. In this approach, travel preferences extraction through cross-network, holistic attention permits correlations between the dynamic road network’s hidden states and individual journey characteristics, which are subsequently transformed into global semantics by the semantic transformer; preferences and semantics are integrated during the estimate phase. Finally, a multi-task learning component is included, which combines both traffic speed prediction and individual journey time estimate, via the sharing of underlying network parameters and the improvement of the contextual semantic knowledge of the latter job. Evaluation experiments are carried out using a highway dataset collected in Yinchuan City, Ningxia Province, China. The proposed prediction model outperforms state-of-the-art baseline approaches in experiments.   
@@ -66,11 +89,11 @@ Thanks !!!!!!
 
 * Latex inference:
 
-    @article{li4342073spatial,  
-      title={A Spatial Correlation Prediction Model of Urban Pm2. 5 Concentration Based on Deconvolution and Lstm},  
-      author={Li, Maozhen and Zhang, Bo and Liu, Yuan and Yong, Ruihan and Zou, Guojian and Yang, Ru},  
-      journal={Available at SSRN 4342073}  
-    }  
+      @article{li4342073spatial,  
+        title={A Spatial Correlation Prediction Model of Urban Pm2. 5 Concentration Based on Deconvolution and Lstm},  
+        author={Li, Maozhen and Zhang, Bo and Liu, Yuan and Yong, Ruihan and Zou, Guojian and Yang, Ru},  
+        journal={Available at SSRN 4342073}  
+      }  
 
 ## 2022年
 ### Deep learning for Air Pollutant Concentration Prediction: A Review, Atmospheric Environment, accept. (SCI, 中科院一区, IF: 5.755, <font color=#FF000>corresponding author</font>) 
@@ -83,14 +106,14 @@ Thanks !!!!!!
 
 * Latex inference:
 
-    @article{zhang2022deep,  
-      title={Deep learning for air pollutant concentration prediction: A review},  
-      author={Zhang, Bo and Rong, Yi and Yong, Ruihan and Qin, Dongming and Li, Maozhen and Zou, Guojian and Pan, Jianguo},  
-      journal={Atmospheric Environment},  
-      pages={119347},  
-      year={2022},  
-      publisher={Elsevier}  
-    }  
+      @article{zhang2022deep,  
+        title={Deep learning for air pollutant concentration prediction: A review},  
+        author={Zhang, Bo and Rong, Yi and Yong, Ruihan and Qin, Dongming and Li, Maozhen and Zou, Guojian and Pan, Jianguo},  
+        journal={Atmospheric Environment},  
+        pages={119347},  
+        year={2022},  
+        publisher={Elsevier}  
+      }  
 
 
 ### RCL-Learning- ResNet and Convolutional Long Short-Term Memory-based Spatiotemporal Air Pollutant Concentration Prediction Model, Expert Systems With Applications, 118017. (SCI, 中科院一区, IF: 8.665, <font color=#FF000>co-first author</font>)  
@@ -103,14 +126,14 @@ Thanks !!!!!!
 * Latex inference:
 
 
-    @article{zhang2022rcl,  
-      title={RCL-Learning: ResNet and convolutional long short-term memory-based spatiotemporal air pollutant concentration prediction model},  
-      author={Zhang, Bo and Zou, Guojian and Qin, Dongming and Ni, Qin and Mao, Hongwei and Li, Maozhen},  
-      journal={Expert Systems with Applications},  
-      pages={118017},  
-      year={2022},  
-      publisher={Elsevier}  
-    }  
+      @article{zhang2022rcl,  
+        title={RCL-Learning: ResNet and convolutional long short-term memory-based spatiotemporal air pollutant concentration prediction model},  
+        author={Zhang, Bo and Zou, Guojian and Qin, Dongming and Ni, Qin and Mao, Hongwei and Li, Maozhen},  
+        journal={Expert Systems with Applications},  
+        pages={118017},  
+        year={2022},  
+        publisher={Elsevier}  
+      }  
         
 * paper link [click](https://github.com/zouguojian/Accepted-paper/tree/main/RCL-Learning-%20ResNet%20and%20Convolutional%20Long%20Short-Term%20Memory-based%20Spatiotemporal%20Air%20Pollutant%20Concentration%20Prediction%20Model)
 * code link [click](https://github.com/zouguojian/RCL-Learning)
@@ -124,15 +147,15 @@ Thanks !!!!!!
 * Latex inference:
 
 
-    @article{zou2022exploring,  
-      title={Exploring the nonlinear impact of air pollution on housing prices: A machine learning approach},  
-      author={Zou, Guojian and Lai, Ziliang and Li, Ye and Liu, Xinghua and Li, Wenxiang},  
-      journal={Economics of Transportation},  
-      volume={31},  
-      pages={100272},  
-      year={2022},  
-      publisher={Elsevier}  
-    }  
+      @article{zou2022exploring,  
+        title={Exploring the nonlinear impact of air pollution on housing prices: A machine learning approach},  
+        author={Zou, Guojian and Lai, Ziliang and Li, Ye and Liu, Xinghua and Li, Wenxiang},  
+        journal={Economics of Transportation},  
+        volume={31},  
+        pages={100272},  
+        year={2022},  
+        publisher={Elsevier}  
+      }  
     
 * paper link [click](https://github.com/zouguojian/Accepted-paper/tree/main/Exploring%20the%20nonlinear%20impact%20of%20air%20pollution%20on%20housing%20prices-%20A%20machine%20learning%20approach)
 
@@ -154,15 +177,15 @@ Thanks !!!!!!
 * Latex inference:
 
 
-    @article{zhang2021novel,  
-      title={A novel Encoder-Decoder model based on read-first LSTM for air pollutant prediction},  
-      author={Zhang, Bo and Zou, Guojian and Qin, Dongming and Lu, Yunjie and Jin, Yupeng and Wang, Hui},  
-      journal={Science of The Total Environment},  
-      volume={765},  
-      pages={144507},  
-      year={2021},  
-      publisher={Elsevier}  
-    }
+      @article{zhang2021novel,  
+        title={A novel Encoder-Decoder model based on read-first LSTM for air pollutant prediction},  
+        author={Zhang, Bo and Zou, Guojian and Qin, Dongming and Lu, Yunjie and Jin, Yupeng and Wang, Hui},  
+        journal={Science of The Total Environment},  
+        volume={765},  
+        pages={144507},  
+        year={2021},  
+        publisher={Elsevier}  
+      }
     
 * paper link [click](https://github.com/zouguojian/Accepted-paper/tree/main/A%20novel%20Encoder-Decoder%20model%20based%20on%20read-first%20LSTM%20for%20air%20pollutant%20prediction)
 * code link [click](https://github.com/zouguojian/Read-first-LSTM)
@@ -177,15 +200,15 @@ Thanks !!!!!!
 * Latex inference:
 
 
-    @article{zou2021fdn,  
-      title={FDN-learning: Urban PM2. 5-concentration Spatial Correlation Prediction Model Based on Fusion Deep Neural Network},  
-      author={Zou, Guojian and Zhang, Bo and Yong, Ruihan and Qin, Dongming and Zhao, Qin},  
-      journal={Big Data Research},  
-      volume={26},  
-      pages={100269},  
-      year={2021},  
-      publisher={Elsevier}  
-    }  
+      @article{zou2021fdn,  
+        title={FDN-learning: Urban PM2. 5-concentration Spatial Correlation Prediction Model Based on Fusion Deep Neural Network},  
+        author={Zou, Guojian and Zhang, Bo and Yong, Ruihan and Qin, Dongming and Zhao, Qin},  
+        journal={Big Data Research},  
+        volume={26},  
+        pages={100269},  
+        year={2021},  
+        publisher={Elsevier}  
+      }  
     
 * paper link [click](https://github.com/zouguojian/Accepted-paper/tree/main/FDN-learning-%20Urban%20PM2.5-concentration%20Spatial%20Correlation%20Prediction%20Model%20Based%20on%20Fusion%20Deep%20Neural%20Network)
 * code link [click](https://github.com/zouguojian/FDN-Learning)
@@ -197,14 +220,14 @@ Thanks !!!!!!
 * Latex inference:
 
     
-    @article{tu2021longer,  
-      title={Longer Time Span Air Pollution Prediction: The Attention and Autoencoder Hybrid Learning Model},  
-      author={Tu, Xin-Yu and Zhang, Bo and Jin, Yu-Peng and Zou, Guo-Jian and Pan, Jian-Guo and Li, Mao-Zhen},  
-      journal={Mathematical Problems in Engineering},  
-      volume={2021},  
-      year={2021},  
-      publisher={Hindawi}  
-    }   
+      @article{tu2021longer,  
+        title={Longer Time Span Air Pollution Prediction: The Attention and Autoencoder Hybrid Learning Model},  
+        author={Tu, Xin-Yu and Zhang, Bo and Jin, Yu-Peng and Zou, Guo-Jian and Pan, Jian-Guo and Li, Mao-Zhen},  
+        journal={Mathematical Problems in Engineering},  
+        volume={2021},  
+        year={2021},  
+        publisher={Hindawi}  
+      }   
     
 * paper link [click](https://github.com/zouguojian/Accepted-paper/tree/main/Longer%20Time-Span%20Air%20Pollution%20Predictionl)
 
@@ -236,13 +259,13 @@ Thanks !!!!!!
 * Latex inference:
 
 
-    @inproceedings{guojian2018space,  
-      title={A space-time dimension user preference calculation method for recommendation in social network},  
-      author={Guojian, Zou and Jisheng, Wang and Hailei, Yuan and Dong, Wang and Tao, Pan and Feng, Song and Bo, Zhang},  
-      booktitle={2018 13th IEEE Conference on Industrial Electronics and Applications (ICIEA)},  
-      pages={1643--1648},  
-      year={2018},  
-      organization={IEEE}  
-    }   
+      @inproceedings{guojian2018space,  
+        title={A space-time dimension user preference calculation method for recommendation in social network},  
+        author={Guojian, Zou and Jisheng, Wang and Hailei, Yuan and Dong, Wang and Tao, Pan and Feng, Song and Bo, Zhang},  
+        booktitle={2018 13th IEEE Conference on Industrial Electronics and Applications (ICIEA)},  
+        pages={1643--1648},  
+        year={2018},  
+        organization={IEEE}  
+      }   
     
 * paper link [click](https://github.com/zouguojian/Accepted-paper/tree/main/A%20Space-time%20Dimension%20User%20Preference%20Calculation%20Method%20for%20Recommendation%20in%20Social%20network)
