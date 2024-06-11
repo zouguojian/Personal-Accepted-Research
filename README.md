@@ -8,6 +8,29 @@ Thanks !!!!!!
 
 <!-- ![paper](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fkk.51.com%2Frefer%3Furl%3Dhttps%3A%2F%2Fmmbiz.qpic.cn%2Fmmbiz_gif%2FzxqIk8VJIrykWy7eNkw8aNBou0XrWmX585bD3dsClf8BUWic2XRZl4kaND8XJHBQn8LOI83VzAdwvI7fXTypxrQ%2F0%3Fwx_fmt%3Dgif&refer=http%3A%2F%2Fkk.51.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1661072003&t=e7891ac13714e529265e8d6ad640a55d) -->
 
+## 2024年
+### MT-STNet: A Novel Multi-Task Spatiotemporal Network for Highway Traffic Flow Prediction, IEEE Transactions on Intelligent Transportation Systems, 1558-0016. (SCI, 中科院一区, IF: 9.551, <font color=#FF000>first author</font>) 
+
+<div align=center><img src ="https://github.com/zouguojian/Personal-Accepted-Research/blob/main/MT-STNet%20A%20Novel%20Multi-Task%20Spatiotemporal%20Network%20for%20Highway%20Traffic%20Flow%20Prediction/image/figure2.pdf" width = "600" height="470"/></div>
+
+* Abstract: 
+> Multi-step highway traffic flow prediction is crucial for intelligent transportation systems, and existing works have made significant advancements in this field. However, the physical structure, including path, distance, and node degree, is critical information in traffic networks and is often overlooked when encoding spatiotemporal dependencies. Meanwhile, the problem of prediction error propagation in multi-step flow forecasting is challenging to mitigate and can significantly impact overall forecasting performance. Moreover, traffic flows between toll and gantry stations in the highway network exhibit notable differ- ences, leading to heterogeneous flow distributions. To overcome the above issues, a novel multi-task spatiotemporal network for highway traffic flow prediction (MT-STNet) is proposed, consisting of the encoder-decoder structure, a generative infer- ence system, and multi-task learning. The spatiotemporal block with physical transformation is developed to construct both the encoder and decoder, integrating the physical structure information into modeling the highway network’s spatiotemporal dependencies. Additionally, the generative inference architecture is designed to extract the correlation between the historical- and target- sequences to generate the target hidden represen- tations rather than a dynamic decoding way, avoiding multi-step prediction error propagation. Furthermore, because of traffic flow heterogeneity in the highway network, multi-task learning divides highway traffic flow prediction into three tasks, sharing the underlying traffic network and knowledge learned, thereby enhancing the prediction performance of each subtask. The evaluation experiments used monitoring data from a highway in Yinchuan City, Ningxia Province, China. The experimen- tal results demonstrate that the performance of our proposed prediction model is better than that of the baseline methods.  
+
+* Latex inference:
+
+      @article{zou2024multi,  
+        title={Multi-task-based spatiotemporal generative inference network: A novel framework for predicting the highway traffic speed},  
+        author={Zou, Guojian and Lai, Ziliang and Wang, Ting and Liu, Zongshi and Bao, Jingjue and Ma, Changxi and Li, Ye and Fan, Jing},  
+        journal={Expert Systems with Applications},  
+        volume={237},  
+        pages={121548},  
+        year={2024},  
+        publisher={Elsevier}  
+      }    
+
+* paper link [click](https://github.com/zouguojian/Personal-Accepted-Research/blob/main/Multi-task-based%20spatiotemporal%20generative%20inference%20network%20A%20novel%20framework%20for%20predicting%20the%20highway%20traffic%20speed/1-s2.0-S095741742302050X-main.pdf)
+* code link [click](https://github.com/zouguojian/Traffic-speed-prediction/tree/main/MT-STGIN)
+
 ## 2023年
 ### Multi-task-based spatiotemporal generative inference network: A novel framework for predicting the highway traffic speed, Expert Systems with Applications, Volume 237, March 2024, 121548. (SCI, 中科院一区, IF: 8.5, <font color=#FF000>first author</font>)  
 
