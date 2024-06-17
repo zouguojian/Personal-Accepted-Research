@@ -23,9 +23,9 @@ Thanks !!!!!!
           journal={IEEE Transactions on Intelligent Transportation Systems},   
           title={MT-STNet: A Novel Multi-Task Spatiotemporal Network for Highway Traffic Flow Prediction},   
           year={2024},  
-          volume={},  
-          number={},  
-          pages={},  
+          volume={25},  
+          number={7},  
+          pages={1-16},  
           doi={10.1109/TITS.2024.3411638}  
         }   
 
